@@ -1,0 +1,15 @@
+{
+  "windowSeconds": 300,
+  "events": [
+    {"room": "ops", "commit": "c0ffee12", "created": 1448127400, "started": 1448127410, "finished": 1448127450, "status": "success"},
+    {"room": "build", "commit": "9f3c1a2b", "created": 1448127180, "started": 1448127190, "finished": 1448127320, "status": "success"},
+    {"room": "ops", "commit": "beef0011", "created": 1448127501, "started": 1448127510, "finished": 1448127551, "status": "killed"},
+    {"room": "ops", "commit": "11223344", "created": 1448127050, "started": 1448127060, "finished": 1448127080, "status": "success"},
+    {"room": "build", "commit": "9f3c1a2b", "created": 1448127000, "started": 1448127010, "finished": 1448127230, "status": "success"},
+    {"room": "ops", "commit": "c0ffee12", "created": 1448127100, "started": 1448127110, "finished": 1448127150, "status": "failure"},
+    {"room": "ops", "commit": "beef0011", "created": 1448127200, "started": 1448127210, "finished": 1448127250, "status": "success"},
+    {"room": "build", "commit": "9f3c1a2b", "created": 1448127180, "started": 1448127195, "finished": 1448127330, "status": "killed"},
+    {"room": "ops", "commit": "11223344", "created": 1448127100, "started": 1448127110, "finished": 1448127150, "status": "failure"},
+    {"room": "ops", "commit": "11223344", "created": 1448127300, "started": 1448127310, "finished": 0, "status": "running"}
+  ]
+}
